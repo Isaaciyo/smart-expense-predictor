@@ -4,6 +4,7 @@
 ````markdown
 # Smart Expense Predictor
 
+![Website Demo:](https://isaaciyo-smart-expense-app.streamlit.app/)
 This is a personal ML project that predicts monthly expenses based on user inputs.  
 It was built **from scratch** using linear regression and features an **interactive Streamlit dashboard**.
 
@@ -22,8 +23,8 @@ It was built **from scratch** using linear regression and features an **interact
 
 ## Demo
 
-![Dashboard Screenshots:](screenshot1.png)
-![](screenshot2.png)
+![Dashboard Screenshots:](/screenshots/screenshot1.png)
+![](/screenshots/screenshot2.png)
 ---
 
 ## Installation
@@ -31,8 +32,8 @@ It was built **from scratch** using linear regression and features an **interact
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/smart-expense-predictor.git
-cd smart-expense-predictor
+git clone https://github.com/Isaaciyo/smart-expense-predictor.git
+cd "Your project folder name"
 ````
 
 2. Create a virtual environment (recommended):
