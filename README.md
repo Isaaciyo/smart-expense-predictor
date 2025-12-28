@@ -3,7 +3,7 @@
 
 # Smart Expense Predictor
 
-![Website Demo:](https://isaaciyo-smart-expense-app.streamlit.app/)
+[Website Demo:](https://isaaciyo-smart-expense-app.streamlit.app/)
 This is a personal ML project that predicts monthly expenses based on user inputs.  
 It was built **from scratch** using linear regression and features an **interactive Streamlit dashboard**.
 
