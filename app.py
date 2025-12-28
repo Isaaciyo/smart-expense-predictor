@@ -33,7 +33,7 @@ st.sidebar.subheader("About")
 st.sidebar.markdown(
     """
     Built by: **Isidahome-Iyobebe Isaac**  
-    [GitHub Repository](https://github.com/your-username)
+    [GitHub Repository](https://github.com/Isaaciyo/smart-expense-predictor)
     """
 )
 
