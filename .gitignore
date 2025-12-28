@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 
 # Virtual environments
+.venv/
 venv/
 .env/
 
@@ -12,7 +13,7 @@ venv/
 .DS_Store
 
 # Numpy / ML model files (optional: track only if needed)
-*.npy
+# *.npy
 
 # Logs
 *.log
