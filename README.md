@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # Smart Expense Predictor
 
 ![Website Demo:](https://isaaciyo-smart-expense-app.streamlit.app/)
