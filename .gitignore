@@ -1,7 +1,24 @@
+# Python cache files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# Numpy / ML model files (optional: track only if needed)
 *.npy
-*.env/
-*.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# VS Code workspace settings
+.vscode/
